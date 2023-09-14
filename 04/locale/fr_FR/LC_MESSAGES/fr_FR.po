@@ -1,0 +1,62 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-09-16 12:24+0200\n"
+"PO-Revision-Date: 2021-09-16 13:30+0200\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 3.0\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr_FR\n"
+
+#: blackjack.py:157
+msgid "The dealer is showing: "
+msgstr "Le concessionnaire montre : "
+
+#: blackjack.py:158
+msgid "Your hand is: "
+msgstr "Votre main est : "
+
+#: blackjack.py:170
+msgid "Would you like another card? (y/n):"
+msgstr "Voulez-vous une autre carte? (o/n) :"
+
+#: blackjack.py:209
+msgid "You have gone bust!"
+msgstr "Vous avez fait faillite !"
+
+#: blackjack.py:213 blackjack.py:218
+msgid "The dealer has: "
+msgstr "Le concessionnaire a : "
+
+#: blackjack.py:217
+msgid "The dealer hits"
+msgstr "Le concessionnaire frappe"
+
+#: blackjack.py:221
+msgid "The dealer has gone bust!"
+msgstr "Le concessionnaire a fait faillite!"
+
+#: blackjack.py:223
+msgid "The dealer sticks with: "
+msgstr "Le concessionnaire s’en tient à : "
+
+#: blackjack.py:229
+msgid "It's a draw!"
+msgstr "C’est un tirage au sort !"
+
+#: blackjack.py:231
+msgid "The dealer won!"
+msgstr "Le concessionnaire a gagné!"
+
+#: blackjack.py:233
+msgid "You won!"
+msgstr "Tu as gagne!"
